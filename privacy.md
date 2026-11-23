@@ -2,8 +2,6 @@
 title: Tug Privacy Policy
 ---
 
-# Tug Privacy Policy
-
 **Effective November 22, 2026**
 
 Tug is a job search organizer for iPhone, made by Kelly Rutherford (Pruned) ("we"). This policy explains what happens to your information when you use Tug.

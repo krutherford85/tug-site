@@ -2,8 +2,6 @@
 title: Tug Support
 ---
 
-# Tug Support
-
 Need help with Tug, found a problem, or have an idea? Email [support@prunedapps.com](mailto:support@prunedapps.com). We read every message.
 
 When reporting a problem, it helps to include your iPhone model, the iOS version (Settings > General > About) and what you were doing when it happened.
