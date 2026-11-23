@@ -4,7 +4,7 @@ title: Tug Privacy Policy
 
 # Tug Privacy Policy
 
-**Effective [DATE]**
+**Effective November 22, 2026**
 
 Tug is a job search organizer for iPhone, made by Kelly Rutherford (Pruned) ("we"). This policy explains what happens to your information when you use Tug.
 
@@ -32,9 +32,13 @@ Tug can add an interview to Calendar or a person to Contacts, but only through A
 
 ## What we don't do
 
-- We don't collect personal information.
+- We don't collect personal information through the app.
 - We don't use analytics, advertising or tracking tools, or any third-party code that collects data.
 - We don't sell or share information. We have nothing to share.
+
+## If you email us
+
+If you email support, we receive your email address and whatever you include in your message. We use it only to reply to you and to fix problems you report, and we don't add you to any mailing list or share it with anyone. Our email is hosted by Apple's iCloud Mail. To have your messages deleted, just ask.
 
 ## Your control over your data
 
@@ -50,4 +54,4 @@ If this policy changes, we'll update it on this page and change the effective da
 
 ## Contact
 
-Questions about this policy or about Tug: [CONTACT EMAIL]
+Questions about this policy or about Tug: [support@prunedapps.com](mailto:support@prunedapps.com)
